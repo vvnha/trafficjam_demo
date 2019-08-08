@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBTraffic">
+  <DataContextMoniker Name="/DBTrafficDataContext" />
+  <nestedChildShapes>
+    <classShape Id="481bc261-63f5-49ce-b48d-5095e5169b4f" absoluteBounds="1.25, 1.25, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DBTrafficDataContext/TraficJam" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f7246d81-a904-4ff0-a8c9-985e7d8f227d" absoluteBounds="1.2649999999999997, 1.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c8f92ba0-6dae-4c73-be89-4a5cf3536c24" absoluteBounds="4.375, 1.75, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/DBTrafficDataContext/FCM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c559b87b-c771-4ad4-a92c-92c49a1b9651" absoluteBounds="4.3900000000000006, 2.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
